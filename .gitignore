@@ -1,0 +1,22 @@
+# Backend
+food-tracking-backend/target/
+food-tracking-backend/.mvn
+food-tracking-backend/mvnw
+food-tracking-backend/mvnw.cmd
+food-tracking-backend/.settings/
+food-tracking-backend/.classpath
+food-tracking-backend/.project
+
+# Frontend
+food-tracking-frontend/node_modules/
+food-tracking-frontend/dist/
+food-tracking-frontend/.env.local
+food-tracking-frontend/.env.*.local
+food-tracking-frontend/npm-debug.log*
+food-tracking-frontend/yarn-debug.log*
+food-tracking-frontend/yarn-error.log*
+
+# IDE
+.idea/
+*.iml
+.vscode/
